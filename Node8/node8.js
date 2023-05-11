@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('fs') // remove type = module from package
 const http = require('http')
 const url = require('url')
 const c = require('./circle.js')

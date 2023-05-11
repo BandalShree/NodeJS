@@ -1,4 +1,4 @@
-const n1 = require("./calc.js")
+const n1 = require("./calc.js") // remove type = module from package
 console.log(n1.add(1,2))
 console.log(n1.sub(7,3))
 console.log(n1.mul(3,4))

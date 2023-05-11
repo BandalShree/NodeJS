@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('fs') // remove type = module from package
 
 fs.readFile('mydata.txt',(err,val)=>{
     if(!err){

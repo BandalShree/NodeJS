@@ -1,6 +1,6 @@
 import express from 'express'
 import fs from 'fs'
-import url from 'url'
+
 const app = express()
 let arr = [["username1", "passs1"], ["username2", "passs2"], ["username3", "passs3"]]
 let obj = {}
